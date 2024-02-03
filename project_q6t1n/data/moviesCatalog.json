@@ -1,0 +1,36 @@
+{"movies": [
+    {
+        "actors": ["Vijay"],
+        "reviewBox": "",
+        "year": 2016,
+        "genre": "Action",
+        "rating": 4,
+        "language": "Tamil",
+        "movieId": "VSLUV5",
+        "movieName": "THeri"
+    },
+    {
+        "actors": [
+            "Samantha",
+            "Vijay",
+            "Yogi Babu"
+        ],
+        "reviewBox": "",
+        "year": 2018,
+        "genre": "Sports",
+        "rating": 3,
+        "language": "Telugu",
+        "movieId": "GDKLG22",
+        "movieName": "Whistle"
+    },
+    {
+        "actors": ["Bill Gates"],
+        "reviewBox": "",
+        "year": 2021,
+        "genre": "action",
+        "rating": 1,
+        "language": "Tamil",
+        "movieId": "555V",
+        "movieName": "jim"
+    }
+]}
